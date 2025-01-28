@@ -1,15 +1,15 @@
 {
-  "name": "hugomods-kroki",
+  "name": "viravera-kroki",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hugomods/kroki.git"
+    "url": "git+https://github.com/viravera/kroki.git"
   },
-  "author": "Razon Yang <razonyang@gmail.com>",
+  "author": "Bob Miller <dairukan@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hugomods/kroki/issues"
+    "url": "https://github.com/viravera/kroki/issues"
   },
-  "homepage": "https://github.com/hugomods/kroki",
+  "homepage": "https://github.com/viravera/kroki",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.2",
     "prettier": "^3.0.0",
