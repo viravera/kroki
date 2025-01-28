@@ -1,3 +1,3 @@
-module github.com/hugomods/kroki
+module github.com/viravera/kroki
 
 go 1.18
